@@ -45,7 +45,7 @@ public class SnakeGame extends Application {
 
     public static Label gAme_over = new Label("GAME OVER");
 
-  public static Button button = new Button("RESTART");
+  public static Button button = new Button("Hello from main");
 
     int numRows = 8;
 
